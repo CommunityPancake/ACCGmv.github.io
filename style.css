@@ -1,0 +1,104 @@
+body {
+    font-family: Arial;
+    padding: 40px 0
+    
+    
+}
+
+h2 {
+    font-size: 28px;
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: Arial;
+}
+
+span {
+    color: violet;
+    font-size: Arial;
+}
+
+#pawel {
+    height: 180px;
+    width: 180px;
+}
+
+p {
+    font-family: Arial;
+}
+
+li {
+    font-family: Arial;
+}
+
+
+
+section,
+header 
+{
+    padding: 10px 20px 60px 60px;
+    background-color: whitesmoke;
+    width: 960px;
+    margin: 0 auto 0 auto;
+    
+
+
+}
+
+#vvv {
+    display: flex;
+    align-items: center;
+    height: 600px;
+    width: 1x;
+    padding: 0;
+    border-bottom: 0;
+    margin: auto 0 auto 0;
+    
+    
+}
+
+#FabrykaL {
+    color: #FFCC00;
+}
+
+#Damek {
+    color: #00CCFF;
+    
+}
+
+#Zaxi {
+    color: #66FF00;
+}
+
+header ul {
+    list-style: none;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header li {
+    margin-bottom: 15px;
+}
+
+
+header address img {
+    height: 16px;
+    width: 16px;
+    background-color: blueviolet;
+    margin-right: 10px;
+    padding: 8px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+/* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
+/* CSS w 100% robiony przez DAMEK  */
+/* Finalna strona nie wygląda jakoś bardzo dobrze, ale myślę, że jest git :D  */
+/* No copyright ACCGmv™ Prawa zastrzeżone  */
+
