@@ -99,7 +99,7 @@ header address img {
 
 .button {
     background-color: #ff0000; /* Green */
-    border-radius: 0%;
+    border-radius: 20px;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -109,8 +109,8 @@ header address img {
 }
 
 .button1 {
-    background-color: #62ff00; /* Green */
-    border-radius: 0%;
+    background-color: #ffe100; /* Green */
+    border-radius: 20px;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -120,8 +120,8 @@ header address img {
 }
 
 .button2 {
-    background-color: #0037ff; /* Green */
-    border-radius: 0%;
+    background-color: #0091ff; /* Green */
+    border-radius: 20px;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -133,8 +133,17 @@ header address img {
 }
 
 header {
+    border-radius: 50px 50px  0 0 ;
+    background-image: url("zestawy/elementy/glownezdjecie.png");
+    
+}
 
-    background-image: url("zestawy/glownezdjecie.png");
+
+
+footer  {
+    display: flex;
+    align-items: center;
+    border-radius: 40px;
 }
 
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
