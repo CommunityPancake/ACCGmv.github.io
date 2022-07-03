@@ -1,8 +1,6 @@
 body {
     font-family: Arial;
     padding: 40px 0
-    
-    
 }
 
 h2 {
@@ -23,6 +21,7 @@ span {
 #pawel {
     height: 180px;
     width: 180px;
+    border-radius: 20%;
 }
 
 p {
@@ -33,8 +32,6 @@ li {
     font-family: Arial;
 }
 
-
-
 section,
 header 
 {
@@ -42,9 +39,6 @@ header
     background-color: whitesmoke;
     width: 960px;
     margin: 0 auto 0 auto;
-    
-
-
 }
 
 #vvv {
@@ -55,8 +49,6 @@ header
     padding: 0;
     border-bottom: 0;
     margin: auto 0 auto 0;
-    
-    
 }
 
 #FabrykaL {
@@ -95,6 +87,10 @@ header address img {
     padding: 8px;
     vertical-align: middle;
     border-radius: 50%;
+}
+
+#Hotixon {
+    color:rgb(159, 13, 249)
 }
 
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
