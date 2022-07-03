@@ -14,8 +14,9 @@ h1 {
 }
 
 span {
-    color: violet;
-    font-size: Arial;
+    color: rgb(105, 0, 105);
+    font-family: Arial;
+    font-size: 20px;
 }
 
 #pawel {
@@ -39,6 +40,7 @@ header
     background-color: whitesmoke;
     width: 960px;
     margin: 0 auto 0 auto;
+    
 }
 
 #vvv {
@@ -49,6 +51,7 @@ header
     padding: 0;
     border-bottom: 0;
     margin: auto 0 auto 0;
+    
 }
 
 #FabrykaL {
@@ -87,10 +90,51 @@ header address img {
     padding: 8px;
     vertical-align: middle;
     border-radius: 50%;
+    
 }
 
 #Hotixon {
     color:rgb(159, 13, 249)
+}
+
+.button {
+    background-color: #ff0000; /* Green */
+    border-radius: 0%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button1 {
+    background-color: #62ff00; /* Green */
+    border-radius: 0%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button2 {
+    background-color: #0037ff; /* Green */
+    border-radius: 0%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    
+}
+
+header {
+
+    background-image: url("zestawy/glownezdjecie.png");
 }
 
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
