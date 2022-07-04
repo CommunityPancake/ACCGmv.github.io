@@ -23,6 +23,7 @@ span {
     height: 180px;
     width: 180px;
     border-radius: 20%;
+    box-shadow: 0 0 20px rgb(0, 204, 255);
 }
 
 p {
@@ -33,6 +34,7 @@ li {
     font-family: Arial;
 }
 
+
 section,
 header 
 {
@@ -40,6 +42,7 @@ header
     background-color: whitesmoke;
     width: 960px;
     margin: 0 auto 0 auto;
+    
     
 }
 
@@ -106,6 +109,7 @@ header address img {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    box-shadow: 0 0 20px black;
 }
 
 .button1 {
@@ -117,6 +121,7 @@ header address img {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    box-shadow: 0 0 20px black;
 }
 
 .button2 {
@@ -128,6 +133,7 @@ header address img {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    box-shadow: 0 0 20px black;
     
     
 }
@@ -135,6 +141,7 @@ header address img {
 header {
     border-radius: 50px 50px  0 0 ;
     background-image: url("zestawy/elementy/glownezdjecie.png");
+    box-shadow: 0 0 20px black;
     
 }
 
@@ -145,6 +152,61 @@ footer  {
     align-items: center;
     border-radius: 40px;
 }
+
+#przycisk1 {
+    text-align: middle;
+    background-color: #0091ff; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 283px;
+    margin-left: 8px;
+    margin-right: -5px;
+    box-shadow: 0 0 20px black;
+
+}
+
+
+#przycisk2 {
+    display: flex;
+    text-align: center;
+    background-color: #6aff00; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 283px;
+    margin-right: 0px;
+    box-shadow: 0 0 20px black;
+}
+
+#przycisk3 {
+    display: flex;
+    text-align: center;
+    background-color: #ff00ae; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 283px;
+    margin-right: 7px;
+    margin-left: -5px;
+    box-shadow: 0 0 20px black;
+}
+
+.klasa {
+    text-align: center;
+    
+}
+
+
 
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
 /* CSS w 100% robiony przez DAMEK  */
