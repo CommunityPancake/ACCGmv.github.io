@@ -101,7 +101,7 @@ header address img {
 }
 
 .button {
-    background-color: #ff0000; /* Green */
+    background-color: #ff0000;
     border-radius: 20px;
     color: white;
     padding: 15px 32px;
@@ -113,7 +113,7 @@ header address img {
 }
 
 .button1 {
-    background-color: #ffe100; /* Green */
+    background-color: #ffe100; 
     border-radius: 20px;
     color: white;
     padding: 15px 32px;
@@ -125,7 +125,7 @@ header address img {
 }
 
 .button2 {
-    background-color: #0091ff; /* Green */
+    background-color: #0091ff; 
     border-radius: 20px;
     color: white;
     padding: 15px 32px;
@@ -142,6 +142,7 @@ header {
     border-radius: 50px 50px  0 0 ;
     background-image: url("zestawy/elementy/glownezdjecie.png");
     box-shadow: 0 0 20px black;
+   
     
 }
 
@@ -155,7 +156,7 @@ footer  {
 
 #przycisk1 {
     text-align: middle;
-    background-color: #0091ff; /* Green */
+    background-color: #0091ff; 
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -173,7 +174,7 @@ footer  {
 #przycisk2 {
     display: flex;
     text-align: center;
-    background-color: #6aff00; /* Green */
+    background-color: #6aff00; 
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -188,7 +189,7 @@ footer  {
 #przycisk3 {
     display: flex;
     text-align: center;
-    background-color: #ff00ae; /* Green */
+    background-color: #ff00ae; 
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -205,6 +206,10 @@ footer  {
     text-align: center;
     
 }
+
+
+
+
 
 
 
