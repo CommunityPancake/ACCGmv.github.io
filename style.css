@@ -96,6 +96,7 @@ header address img {
     padding: 8px;
     vertical-align: middle;
     border-radius: 50%;
+    box-shadow: 0 0 20px black;
     
 }
 
@@ -234,18 +235,6 @@ footer  {
 
 .usluga {
     list-style: none;
-}
-
-.ytt {
-    box-shadow: grey;
-}
-
-.dc {
-    box-shadow: grey;
-}
-
-.pnckmvv {
-    box-shadow: grey;
 }
 
 
