@@ -207,6 +207,24 @@ footer  {
     box-shadow: 0 0 20px black;
 }
 
+#przycisk3:hover {
+    background-color: #a50071; 
+    color: rgb(0, 0, 0);
+}
+
+
+    #przycisk2:hover {
+        background-color: #337900; 
+        color: rgb(0, 0, 0);
+    }
+
+    #przycisk1:hover {
+        background-color: #003156; 
+        color: rgb(0, 0, 0);
+    }
+
+
+
 .klasa {
     text-align: center;
     
@@ -237,7 +255,53 @@ footer  {
     list-style: none;
 }
 
+.trailer  {
+    display: flex;
+    
+}
 
+
+.trailer h2 {
+    padding-left: 20px;
+    font-family: Arial;
+    
+}
+
+.trailer ul li {
+    list-style: none;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
+
+
+.mrpos {
+    display: flex;
+
+
+
+}
+.mrpos img {
+    padding-top: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius: 20%;
+    
+}
+
+.mrpos p {
+    padding-top: 400px;
+    padding-left: 20px;
+}
+
+.komendy ul  {
+    padding-left: 450px;
+    padding-top: 0px;
+}
+
+.portale img {
+    height: 200px;
+    width: 300px;
+}
 
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
 /* CSS w 100% robiony przez DAMEK  */
