@@ -221,6 +221,7 @@ footer  {
     #przycisk1:hover {
         background-color: #003156; 
         color: rgb(0, 0, 0);
+        
     }
 
 
@@ -301,6 +302,11 @@ footer  {
 .portale img {
     height: 200px;
     width: 300px;
+}
+
+.struktury1 img {
+    width: 200px;
+    height: 100px;
 }
 
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
