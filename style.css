@@ -73,6 +73,10 @@ header
     color: #66FF00;
 }
 
+#kesu {
+    color: red
+}
+
 header ul {
     list-style: none;
 }
