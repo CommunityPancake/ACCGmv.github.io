@@ -29,8 +29,8 @@ span {
 
 #pawel:hover {
     transition: 0.3s;
-    width: 200px;
-    height: 200px;
+    width: 190px;
+    height: 190px;
     background-image: url(zestawy/);
 }
 
@@ -441,7 +441,58 @@ footer  {
     padding-top: 20px;
 }
 
+.koszyk {
+    box-sizing: 20px;
+    transition: 0.3s;
+    
+}
 
+.koszyk:hover {
+    transition: 0.3s;
+    padding-bottom: 20px;
+}
+
+
+.sekcja10 {
+    background-color:whitesmoke;
+}
+
+
+.itemtext {
+    text-align: center;
+
+}
+
+.rangi12 {
+    display: flex;
+}
+
+.rangi12 img {
+    padding-bottom: 20px;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+
+.legenda12 {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    height: 250px;
+}
+
+.vip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 
 
 
