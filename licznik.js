@@ -5,7 +5,7 @@ const seconds = document.getElementById('sekundy');
 
 const currentYear = new Date().getFullYear();
 
-const newYearTime = new Date(`July 23 2022  ${currentYear + 1} 18:00:00`);
+const newYearTime = new Date(`July 28 2022  ${currentYear + 1} 18:00:00`);
 
 // 8 linijka do zmiany daty i godziny 
 function updateCountdown() {

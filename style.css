@@ -28,10 +28,9 @@ span {
 }
 
 #pawel:hover {
+    
     transition: 0.3s;
-    width: 190px;
-    height: 190px;
-    background-image: url(zestawy/);
+    background-image: url(zestawy/elementy/favicon.ico.png);
 }
 
 p {
@@ -454,45 +453,9 @@ footer  {
 
 
 .sekcja10 {
-    background-color:whitesmoke;
+    background-color:white;
 }
 
-
-.itemtext {
-    text-align: center;
-
-}
-
-.rangi12 {
-    display: flex;
-}
-
-.rangi12 img {
-    padding-bottom: 20px;
-    display: flex;
-    width: 200px;
-    height: 200px;
-    margin-right: auto;
-    margin-left: auto;
-    
-    
-}
-
-.legenda12 {
-    display: flex;
-    justify-content: center;
-    margin-right: auto;
-    margin-left: auto;
-    width: 250px;
-    height: 250px;
-}
-
-.vip {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
 
 
 
