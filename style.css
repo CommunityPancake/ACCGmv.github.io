@@ -14,23 +14,24 @@ h1 {
 }
 
 span {
-    color: rgb(105, 0, 105);
+    color: black;
     font-family: Arial;
     font-size: 20px;
 }
 
 #pawel {
-    height: 180px;
-    width: 180px;
+    height: 150px;
+    width: 150px;
     border-radius: 20%;
-    box-shadow: 0 0 20px rgb(0, 204, 255);
-    transition: 0.3s;
+    box-shadow: 0 0 20px black;
+    transition: 0.5s;
 }
 
 #pawel:hover {
     
-    transition: 0.3s;
-    background-image: url(zestawy/elementy/favicon.ico.png);
+    transition: 0.5s;
+    width: 170px;
+    height: 170px;
 }
 
 p {
@@ -47,10 +48,10 @@ header
 {
     padding: 10px 20px 60px 60px;
     background-color: whitesmoke;
-    width: 960px;
+    width: 1050px;
     margin: 0 auto 0 auto;
    
-    
+    /* 960px; */
     
 }
 
@@ -185,7 +186,7 @@ header address img {
 
 header {
     border-radius: 50px 50px  0 0 ;
-    background-image: url("zestawy/elementy/glownezdjecie.png");
+    background-image: url("zestawy/elementy/obrazpusty1.png");
     box-shadow: 0 0 20px black;
     
     
@@ -199,6 +200,9 @@ footer  {
     border-radius: 40px;
 }
 
+
+
+
 #przycisk1 {
     transition: 0.3s;
     display: inline-block;
@@ -210,13 +214,12 @@ footer  {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    width: 283px;
+    width: 313px;
     margin-left: 8px;
     margin-right: -5px;
     box-shadow: 0 0 20px black;
 
 }
-
 
 #przycisk2 {
     transition: 0.3s;
@@ -229,7 +232,7 @@ footer  {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    width: 283px;
+    width: 313px;
     margin-right: 0px;
     box-shadow: 0 0 20px black;
 }
@@ -245,7 +248,7 @@ footer  {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    width: 283px;
+    width: 313px;
     margin-right: 7px;
     margin-left: -5px;
     box-shadow: 0 0 20px black;
@@ -259,27 +262,30 @@ footer  {
     background-color: #480058; 
     color: rgb(0, 0, 0);
     transition: 0.3s;
-    width: 300px;
+    width: 280px;
 }
 
     #przycisk2:hover {
         background-color: #480058; 
         color: rgb(0, 0, 0);
        transition: 0.3s;
-       width: 300px;
+       width: 280px;
     }
     #przycisk1:hover {
         background-color: #480058; 
         color: rgb(0, 0, 0);
         transition: 0.3s;
-        width: 300px;
+        width: 280px;
         
     }
 
 
 
 .klasa {
+    
     text-align: center;
+    
+    
     
 }
 
@@ -294,8 +300,8 @@ footer  {
     text-align: center;
     align-items: center;
     font-family: Arial;
-    height: 100px;
-    background-color:#003156 ;
+    height: 200px;
+    background-image: url(zestawy/elementy/obrazpusty1.png);
 
 }
 
@@ -372,14 +378,15 @@ footer  {
 .zdjecie123 img {
     display: flex;
     align-items: center;
-    height: 512px;
-    width: 1040px;
+    height: 566,5px;
+    width: 1133px;
     display: inline-block;
     text-align: center;
     box-shadow: 0 0 20px black;
     padding-bottom: 0px;
-
 }
+
+
 
 .przejscie {
     color: #003156;
@@ -413,6 +420,7 @@ footer  {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-shadow: 0 0 20px black;
 }
 
 .licznik {
@@ -459,8 +467,9 @@ footer  {
 
 
 
+
 /* Dla panów wielce znawców! ~ Nie ogarniam do końca cssa, niektóre style mogą się powtarzać!!! */
 /* CSS w 100% robiony przez DAMEK  */
 /* Finalna strona nie wygląda jakoś bardzo dobrze, ale myślę, że jest git :D  */
-/* No copyright ACCGmv™ Prawa zastrzeżone  */
+/* No copyright Spinmc™ Prawa zastrzeżone  */
 
